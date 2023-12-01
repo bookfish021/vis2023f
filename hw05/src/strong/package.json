@@ -1,0 +1,14 @@
+{
+  "name": "ae4723b957cfdd39",
+  "main": "ae4723b957cfdd39@23.js",
+  "version": "23.0.0",
+  "homepage": "https://observablehq.com/d/ae4723b957cfdd39",
+  "author": {
+    "name": "張書瑜's Workspace",
+    "url": "https://observablehq.com/@zhang-shu-yu-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
