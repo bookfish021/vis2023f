@@ -1,7 +1,7 @@
 import define1 from "./e93997d5089d7165@2303.js";
 
 function _1(md){return(
-md`# HW03 Medium baseline (4pt)`
+md`# HW03 Strong baseline (4pt)`
 )}
 
 function _data(FileAttachment){return(
